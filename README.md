@@ -1,16 +1,23 @@
-### Hi there 👋
+## Projetos Acadêmicos
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [CodeBank](https://github.com/malucaires/CodeBank) - O CodeBank é um banco fictício desenvolvido para o projeto final do Bootcamp ElasTech da Gama Academy com a PagBank/PagSeguro. É uma plataforma de gerenciamento de clientes, contas e transferências. Tecnologias e ferramentas utilizadas: Java, Spring Boot, Slack, Jira, Intellij, Postman, H2. 
 
-<!--
-**malucaires/malucaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Checape](https://github.com/malucaires/checape) - O Checape é uma API de análise de sentimentos aplicado ao twitter, desenvolvida a partir de um modelo supersionado de classicação. Tecnologias e ferramentas utilizadas: Python, Jupyter Notebook, Poetry, Heroku.
 
-Here are some ideas to get you started:
+## Cursos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [#ElasTech](https://github.com/malucaires/gama_elastech) - Programa de formação de desenvolvedoras em linguagem back-end Java. 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Python para o Mercado Financeiro](https://github.com/malucaires/modal_data_science) - Curso de python e conceitos de machine learning aplicados ao mercado financeiro. 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Curso em Vídeo](https://github.com/malucaires/cursoemvideo_python) - Curso de Python utilizando o VS Code. 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Engenharia de Dados](https://github.com/malucaires/dio_cognizant_cloud_data_engineer) - Curso introdutório de Engenharia de Dados, com fundamentos de Python ETL, Banco de Dados e Cloud.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Pandas](https://github.com/malucaires/zurubabel_pandas) - Curso básico de Pandas utilizando o Jupyter Notebook. 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) [Programaria](https://github.com/malucaires/programaria_euprogramo) - Curso de introdução à programação com foco em desenvolvimento web a partir de conceitos introdutórios de HTML, CSS e JavaScript.
+
+## GitHub
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malucaires&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malu-caires/) 
