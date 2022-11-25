@@ -3,6 +3,9 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Checape](https://github.com/malucaires/checape) - O Checape foi desenvolvido para o projeto final do Bootcamp de Ciência de Dados da Atlântico Academy e é uma API de análise de sentimentos aplicado ao twitter, desenvolvida a partir de um modelo supersionado de classicação. Tecnologias e ferramentas utilizadas: Python, Jupyter Notebook, Poetry, Heroku.
 
+## Projetos Pessoais
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [CodeExchange](https://github.com/malucaires/CodeExchange) [EM ANDAMENTO] - O CodeExchange é uma plataforma de gerenciamento de clientes, contas e compra e venda de moedas estrangeiras.
+
 ## Cursos
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [#ElasTech](https://github.com/malucaires/gama_elastech) - Programa de formação de desenvolvedoras em linguagem back-end Java. 
