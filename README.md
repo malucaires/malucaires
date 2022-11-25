@@ -1,7 +1,7 @@
 ## Projetos Acadêmicos
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [CodeBank](https://github.com/malucaires/CodeBank) - O CodeBank é um banco fictício desenvolvido para o projeto final do Bootcamp ElasTech da Gama Academy com a PagBank/PagSeguro. É uma plataforma de gerenciamento de clientes, contas e transferências. Tecnologias e ferramentas utilizadas: Java, Spring Boot, Slack, Jira, Intellij, Postman, H2. 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Checape](https://github.com/malucaires/checape) - O Checape é uma API de análise de sentimentos aplicado ao twitter, desenvolvida a partir de um modelo supersionado de classicação. Tecnologias e ferramentas utilizadas: Python, Jupyter Notebook, Poetry, Heroku.
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Checape](https://github.com/malucaires/checape) - O Checape foi desenvolvido para o projeto final do Bootcamp de Ciência de Dados da Atlântico Academy e é uma API de análise de sentimentos aplicado ao twitter, desenvolvida a partir de um modelo supersionado de classicação. Tecnologias e ferramentas utilizadas: Python, Jupyter Notebook, Poetry, Heroku.
 
 ## Cursos
 
