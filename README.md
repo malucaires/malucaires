@@ -6,6 +6,8 @@
 ## Projetos Pessoais
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [CodeExchange](https://github.com/malucaires/CodeExchange) [EM ANDAMENTO] - O CodeExchange é uma plataforma de gerenciamento de clientes, contas e compra e venda de moedas estrangeiras.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [BookRecommendation](https://github.com/malucaires/BookRecommendation) [EM ANDAMENTO] - Projeto de recomendação de livros conforme avaliações da Amazon com dataset retirado do Kaggle. 
+
 ## Cursos
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [#ElasTech](https://github.com/malucaires/gama_elastech) - Programa de formação de desenvolvedoras em linguagem back-end Java. 
