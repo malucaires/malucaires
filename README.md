@@ -8,6 +8,8 @@
 
 ## Cursos
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [Alura](https://github.com/malucaires/alura_java) [EM ANDAMENTO] - Formação Java e Orientação a Objetos 
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [#ElasTech](https://github.com/malucaires/gama_elastech) - Programa de formação de desenvolvedoras em linguagem back-end Java. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Python para o Mercado Financeiro](https://github.com/malucaires/modal_data_science) - Curso de python e conceitos de machine learning aplicados ao mercado financeiro. 
