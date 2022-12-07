@@ -8,7 +8,7 @@
 
 ## Cursos
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [Alura](https://github.com/malucaires/alura_java) [EM ANDAMENTO] - Formação Java e Orientação a Objetos 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [Alura](https://github.com/malucaires/alura_java) - Formação Java e Orientação a Objetos 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) [#ElasTech](https://github.com/malucaires/gama_elastech) - Programa de formação de desenvolvedoras em linguagem back-end Java. 
 
