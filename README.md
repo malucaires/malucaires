@@ -20,6 +20,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Pandas](https://github.com/malucaires/zurubabel_pandas) - Curso básico de Pandas utilizando o Jupyter Notebook. 
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) [Alura](https://github.com/malucaires/alura_logicadeprogramacao) [EM ANDAMENTO] - Lógica de Programação
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) [Programaria](https://github.com/malucaires/programaria_euprogramo) - Curso de introdução à programação com foco em desenvolvimento web a partir de conceitos introdutórios de HTML, CSS e JavaScript.
 
 ## GitHub
